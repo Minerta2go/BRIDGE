@@ -9,10 +9,10 @@ By utilizing Blockchain technology, BRIDGE provides a network of opportunities s
 
 # PROJECT DISCRIPTION
 
-Purpose
+[Purpose]
 To optimize transaction methods to be as cost-effective, simple yet elegant and secure as possible for all parties involved.
 
-How It Works
+[How It Works]
 Bridge Coin or BD for short, is an e-currency built with its roots in Stellar Blockchain technology which utilizes smart contracts to ensure investment security and token management.
 
 We offer innovative investment solutions for novice and experienced investors alike and provide the technological gateways required to utilize when trading securities. 
